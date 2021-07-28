@@ -48,7 +48,7 @@ public class RunModeBasedServlet extends SlingSafeMethodsServlet {
 
 		
 
-		resp.getWriter().println("\\n Workflow Exxecuted for \\n");
+		resp.getWriter().println("Workflow Exxecuted for GIT POUSH");
 	}
 
 }
